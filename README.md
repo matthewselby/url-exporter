@@ -84,7 +84,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📄 License
 
-This plugin is licensed under the GPL v2 or later.
+This plugin is MIT licenced.
 
 ## 💬 Support
 
